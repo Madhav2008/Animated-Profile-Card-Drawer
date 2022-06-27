@@ -37,5 +37,5 @@ body {
 }
 
 .toggle::before {
-    content: '';position: ;
+    content: '';position: absolute;
 }
