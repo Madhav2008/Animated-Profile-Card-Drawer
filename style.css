@@ -110,4 +110,6 @@ body {
     text-transform: initial;
 }
 
-.imgBx {position: relative;}
+.imgBx {
+    position: relative;
+}
