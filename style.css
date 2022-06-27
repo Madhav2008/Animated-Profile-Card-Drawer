@@ -29,7 +29,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     width: 70px;
-    height: 60px;background: ;
+    height: 60px;background: #398cc0;
 }
 
 .contentBx {}
