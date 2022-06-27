@@ -58,4 +58,6 @@ body {
     box-shadow: -11px -10px 0 10px #398cc0;
 }
 
-.toggle span {position: absolute;}
+.toggle span {
+    position: absolute;
+}
