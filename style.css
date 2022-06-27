@@ -88,5 +88,6 @@ body {
 .contentBx .content {
     position: relative;
     padding: 20px;
-    text-align: center;z-index: 10;
+    text-align: center;
+    z-index: 10;
 }
