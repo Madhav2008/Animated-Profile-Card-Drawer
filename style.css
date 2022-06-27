@@ -139,5 +139,5 @@ body {
     outline: none;
     cursor: pointer;
     font-size: 1em;
-    text-transform: uppercase;letter-spacing: ;
+    text-transform: uppercase;letter-spacing: 0.1em;
 }
