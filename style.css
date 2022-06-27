@@ -27,7 +27,7 @@ body {
     position: absolute;
     bottom: -60px;
     left: 50%;
-    transform: translateX();
+    transform: translateX(-50%);
 }
 
 .contentBx {}
