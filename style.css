@@ -17,7 +17,7 @@ body {
 .card {
     position: relative;
     width: 350px;
-    height: 85px;background: ;
+    height: 85px;background: #398cc0;
 }
 
 .toggle {
