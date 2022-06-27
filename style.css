@@ -81,5 +81,5 @@ body {
 
 .contentBx {
     position: absolute;
-    inset: 0;
+    inset: 0;overflow: ;
 }
