@@ -23,7 +23,7 @@ body {
     filter: drop-shadow(-20px 20px 40px #398cc055);
 }
 
-.card.active {}
+.card.active {height: ;}
 
 .toggle {
     position: absolute;
