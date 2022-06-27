@@ -50,7 +50,7 @@ body {
 .toggle::after {
     content: '';
     position: absolute;
-    left: -34px;
+    right: -34px;
     width: 35px;
     height: 35px;
     background: transparent;
