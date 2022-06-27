@@ -54,6 +54,6 @@ body {
     width: 35px;
     height: 35px;
     background: transparent;
-    border-top-right-radius: 35px;
+    border-top-left-radius: 35px;
     box-shadow: 11px -10px 0 10px #398cc0;
 }
