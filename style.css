@@ -20,7 +20,7 @@ body {
     height: 85px;
     background: #398cc0;
     border-radius: 20px;
-    filter: drop-shadow(-20px 20px);
+    filter: drop-shadow(-20px 20px 40px);
 }
 
 .toggle {
