@@ -19,7 +19,8 @@ body {
     width: 350px;
     height: 85px;
     background: #398cc0;
-    border-radius: 20px;filter: ;
+    border-radius: 20px;
+    filter: ;
 }
 
 .toggle {
