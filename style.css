@@ -71,7 +71,8 @@ body {
     width: 10px;
     height: 10px;
     border-bottom: 3px solid #fff;
-    border-right: 3px solid #fff;transition: 0.5s;
+    border-right: 3px solid #fff;
+    transition: 0.5s;
 }
 
 .card.active .toggle span {
