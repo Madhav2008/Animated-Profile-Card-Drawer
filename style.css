@@ -90,5 +90,5 @@ body {
     padding: 20px;
     text-align: center;
     z-index: 10;
-    display: flex;
+    display: flex;justify-content: ;
 }
