@@ -117,5 +117,5 @@ body {
     height: 250px;
     background: #fff;
     margin-top: 20px;
-    box-shadow: -10px;
+    box-shadow: -10px 10px;
 }
