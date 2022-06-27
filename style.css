@@ -90,5 +90,6 @@ body {
     padding: 20px;
     text-align: center;
     z-index: 10;
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
