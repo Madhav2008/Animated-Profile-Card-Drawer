@@ -59,5 +59,6 @@ body {
 }
 
 .toggle span {
-    position: absolute;top: 50%;
+    position: absolute;
+    top: 50%;
 }
