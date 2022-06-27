@@ -42,5 +42,6 @@ body {
     left: -34px;
     width: 35px;
     height: 35px;
-    background: #f00;border-bottom-right-radius: 35px;
+    background: #f00;
+    border-bottom-right-radius: 35px;
 }
