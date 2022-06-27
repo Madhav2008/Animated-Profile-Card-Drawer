@@ -24,7 +24,7 @@ body {
 }
 
 .toggle {
-    position: absolute;bottom: ;
+    position: absolute;bottom: -60px;
 }
 
 .contentBx {}
