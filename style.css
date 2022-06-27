@@ -92,7 +92,7 @@ body {
     z-index: 10;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;flex-direction: ;
 }
 
 .contentBx .content h2 {
