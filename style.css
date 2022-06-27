@@ -80,5 +80,6 @@ body {
 }
 
 .contentBx {
-    position: absolute;inset: 0;
+    position: absolute;
+    inset: 0;
 }
