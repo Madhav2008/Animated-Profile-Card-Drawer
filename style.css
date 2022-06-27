@@ -136,5 +136,6 @@ body {
     padding: 10px 35px;
     border-radius: 25px;
     border: none;
-    outline: none;cursor: pointer;
+    outline: none;
+    cursor: pointer;
 }
