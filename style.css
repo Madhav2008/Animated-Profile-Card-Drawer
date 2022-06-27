@@ -62,5 +62,6 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -70%) rotate(405deg);width: ;
+    transform: translate(-50%, -70%) rotate(405deg);
+    width: ;
 }
