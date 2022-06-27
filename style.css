@@ -77,4 +77,4 @@ body {
 
 .card.active .toggle span {
     transform: translate(-50%, -70%) rotate(225deg);
-}
+}.contentBx
