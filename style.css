@@ -47,7 +47,7 @@ body {
     box-shadow: 11px -10px 0 10px #398cc0;
 }
 
-.toggle::before {
+.toggle::after {
     content: '';
     position: absolute;
     left: -34px;
