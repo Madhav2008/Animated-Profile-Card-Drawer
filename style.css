@@ -106,5 +106,6 @@ body {
 
 .contentBx .content h2 span {
     font-size: 0.75em;
-    font-weight: 400;text-transform: initial;
+    font-weight: 400;
+    text-transform: initial;
 }
