@@ -79,4 +79,6 @@ body {
     transform: translate(-50%, -70%) rotate(225deg);
 }
 
-.contentBx {position: absolute;}
+.contentBx {
+    position: absolute;
+}
