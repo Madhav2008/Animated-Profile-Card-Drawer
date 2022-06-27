@@ -86,5 +86,6 @@ body {
 }
 
 .contentBx .content {
-    position: relative;padding: 20px;
+    position: relative;
+    padding: 20px;
 }
