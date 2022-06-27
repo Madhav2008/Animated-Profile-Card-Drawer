@@ -95,4 +95,6 @@ body {
     align-items: center;
 }
 
-.contentBx .content h2 {color: #fff;}
+.contentBx .content h2 {
+    color: #fff;
+}
