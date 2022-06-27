@@ -91,5 +91,6 @@ body {
     text-align: center;
     z-index: 10;
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
 }
