@@ -98,5 +98,6 @@ body {
 .contentBx .content h2 {
     color: #fff;
     font-weight: 500;
-    font-size: 1.25em;text-transform: uppercase;
+    font-size: 1.25em;
+    text-transform: uppercase;
 }
