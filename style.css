@@ -61,5 +61,6 @@ body {
 .toggle span {
     position: absolute;
     top: 50%;
-    left: 50%;transform: ;
+    left: 50%;
+    transform: ;
 }
