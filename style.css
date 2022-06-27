@@ -89,5 +89,5 @@ body {
     position: relative;
     padding: 20px;
     text-align: center;
-    z-index: 10;display: ;
+    z-index: 10;display: flex;
 }
