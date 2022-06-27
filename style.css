@@ -74,4 +74,6 @@ body {
     border-right: 3px solid #fff;
 }
 
-.card.active .toggle span {transform: translate(-50%, -70%) rotate(405deg);}
+.card.active .toggle span {
+    transform: translate(-50%, -70%) rotate(405deg);
+}
