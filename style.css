@@ -85,4 +85,4 @@ body {
     overflow: hidden;
 }
 
-.contentBx .content {}
+.contentBx .content {position: ;}
