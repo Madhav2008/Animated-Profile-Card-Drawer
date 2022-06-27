@@ -75,5 +75,5 @@ body {
 }
 
 .card.active .toggle span {
-    transform: translate(-50%, -70%) rotate(405deg);
+    transform: translate(-50%, -70%) rotate(225deg);
 }
