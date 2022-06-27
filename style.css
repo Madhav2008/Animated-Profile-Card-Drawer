@@ -18,6 +18,8 @@ body {
     position: relative;
 }
 
-.toggle {position: absolute;}
+.toggle {
+    position: absolute;
+}
 
 .contentBx {}
