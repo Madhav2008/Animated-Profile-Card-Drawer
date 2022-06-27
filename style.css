@@ -44,5 +44,5 @@ body {
     height: 35px;
     background: transparent;
     border-top-right-radius: 35px;
-    box-shadow: 11px;
+    box-shadow: 11px -10px;
 }
