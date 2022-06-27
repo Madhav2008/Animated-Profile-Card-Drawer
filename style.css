@@ -42,7 +42,7 @@ body {
     left: -34px;
     width: 35px;
     height: 35px;
-    background: #f00;
+    background: transparent;
     border-top-right-radius: 35px;
     box-shadow: 11px;
 }
