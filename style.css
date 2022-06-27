@@ -130,4 +130,6 @@ body {
     object-fit: cover;
 }
 
-.content button {position: relative;}
+.content button {
+    position: relative;
+}
